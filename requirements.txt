@@ -1,4 +1,5 @@
 streamlit
 google-generativeai
 python-dotenv
-PyPDF2
+pdfplumber
+.env file ( create self and add api_key)
