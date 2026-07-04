@@ -21,6 +21,7 @@ An AI-powered Resume Analyzer built using Python, Streamlit, PyPDF2, and Google 
 - Google Gemini API
 
 ## Run
+create a new api key 
 
 pip install -r requirements.txt
 
