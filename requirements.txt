@@ -2,4 +2,4 @@ streamlit
 google-generativeai
 python-dotenv
 pdfplumber
-.env file ( create self and add api_key)
+
